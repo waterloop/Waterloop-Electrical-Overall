@@ -1,4 +1,4 @@
-# Waterloop Firmware Repositories
+# Waterloop Electrical Repositories
 
 This repo is a compilation of every active electrical project on the team.
 
