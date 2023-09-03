@@ -1,5 +1,4 @@
-# Waterloo-Electrical-Overall
-A compilation of our electrical repositories
+
 # Waterloop Electrical Repositories
 
 This repo is a compilation of every active electrical project on the team.
