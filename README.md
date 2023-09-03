@@ -9,6 +9,7 @@ This repo is a compilation of every active electrical project on the team.
 | ---------------- | --------------------------- | ------------------------------------------------------------ |
 | MCU Board        | G6 MCU Board                | https://github.com/waterloop/electrical-mcu                  |
 | BMS              | G6 BMS Boards               | https://github.com/waterloop/electrical-G6-BMS               |
+| Battery I/O      | G6 BMS Boards               | https://github.com/waterloop/battery-I-O-board               |
 | Embedded         | G6 Embedded Boards          | https://github.com/waterloop/electrical-G6-embedded          |
 
 ## G5 Boards
